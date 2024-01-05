@@ -1,0 +1,93 @@
+10
+
+dir
+0
+https://bahrie127.googlecode.com/svn/trunk/TokoBuku/src/raka/tokobukuapp
+https://bahrie127.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9e5cec24-8e28-7923-5aae-23657df83dfc
+
+Main.java
+file
+
+
+
+add
+
+6cb86dcbe2bcee70457d642806bc001e
+
+
+
+
+
+
+
+
+
+
+
+copied
+https://bahrie127.googlecode.com/svn/trunk/TokoBuku/src/bahrie/tokobukuapp/Main.java
+22
+
+entity
+dir
+
+
+
+add
+
+implement
+dir
+
+
+
+add
+
+interfaces
+dir
+
+
+
+add
+
+koneksi
+dir
+
+
+
+add
+
+sql
+dir
+
+
+
+add
+
+view
+dir
+
+
+
+add
+
